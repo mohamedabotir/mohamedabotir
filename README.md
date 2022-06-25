@@ -15,11 +15,3 @@ I 'am currently work on Graduation Project<br>I 'am currently learning and readi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohamedabotir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mohamedabotir&icon=0&color=0)](https://visitcount.itsvg.in)
