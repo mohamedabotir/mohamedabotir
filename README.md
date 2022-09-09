@@ -1,5 +1,5 @@
 # 💫 About Me:
-I 'am currently work on Graduation Project<br>I 'am currently learning and reading about distributed cache<br>Ask me about full stack development especially asp net core and angular<br>keep learning is my constant thing
+I 'am currently work on ReadingHub Project for streaming auhor voice<br>I 'am currently learning and reading about distributed cache and seek for gain aws devops engineer<br>Ask me about full stack development especially asp net core and angular<br>keep learning is my constant thing
 
 
 ## 🌐 Socials:
