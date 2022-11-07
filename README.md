@@ -1,6 +1,7 @@
 # 💫 About Me:
 I 'am currently work on ReadingHub Project for streaming auhor voice<br>I 'am currently learning and reading about distributed cache and seeks for gain aws devops engineer<br>Ask me about full stack development especially asp net core and angular<br>keep learning is my constant thing<br>
-My youtube channel https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
+My youtube channel
+https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
 
 
 ## 🌐 Socials:
