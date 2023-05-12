@@ -17,6 +17,7 @@ https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohamedabotir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 📺 Latest Course 
-###  ![Introduction to .NET Testing with NUnit 3]([https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white](https://app.pluralsight.com/learner/user/courses/v2/91337ef0-7614-47e6-867f-920d1b71aca8/certificate))
+### ![Introduction to .NET Testing with NUnit 3](https://app.pluralsight.com/learner/user/courses/v2/91337ef0-7614-47e6-867f-920d1b71aca8/certificate)
+
 
 
