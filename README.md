@@ -5,7 +5,7 @@ https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-abotir-9b4b9318b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abotir) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mohamedaabotir)
 [![Goodreads](https://img.shields.io/badge/Goodreads-%23a4c639.svg?style=for-the-badge&logo=Goodreads&logoColor=white)](https://www.goodreads.com/user/show/66370251-mohamed-abotir)
 
