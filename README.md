@@ -14,6 +14,15 @@ https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
 ![DotnetCore](https://img.shields.io/badge/-.NET%209.0-blueviolet)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![DDD](https://img.shields.io/badge/Domain--Driven%20Design-DDD-blue?style=flat-square)
+![Distributed System Badge](https://img.shields.io/badge/Distributed%20System-Scalable-blue)
+![AOP Badge](https://img.shields.io/badge/Aspect--Oriented%20Programming-AOP-blue)
+![NUnit Badge](https://img.shields.io/badge/NUnit-Testing-green)
+![Event Sourcing Badge](https://img.shields.io/badge/Event%20Sourcing-CQRS-blue)
+![CQRS Badge](https://img.shields.io/badge/CQRS-Pattern-blue)
+![Railway-Oriented Programming Badge](https://img.shields.io/badge/Railway--Oriented%20Programming-Functional-blue)
+![Functional Programming Badge](https://img.shields.io/badge/Functional%20Programming-Pure%20Functions-blue)
+
+
 
 
 # 📊 GitHub Stats:
