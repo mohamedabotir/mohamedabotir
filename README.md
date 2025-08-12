@@ -26,7 +26,7 @@ https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohamedabotir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-pi-lime-27.vercel.app/api?username=mohamedabotir&theme=dark&hide_border=true&count_private=true&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabotir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabotir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
