@@ -1,7 +1,5 @@
 # 💫 About Me:
-I 'am currently learning and reading about distributed system  and operating systems concerns <br>Ask me about full stack development especially asp net core and angular<br>keep learning is my constant thing<br>
-My youtube channel
-https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
+A highly skilled and adaptable software engineer with extensive experience 4 years working across various architectural paradigms and industry domains. Adept at designing, developing, and maintaining software applications in diverse environments, including service-oriented architecture (SOA) and event-driven architecture (EDA).
 
 
 ## 🌐 Socials:
@@ -32,23 +30,6 @@ https://www.youtube.com/channel/UCD6TIULah8vxEyQWIpRLY9A
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohamedabotir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-##  Achievements
-<details><summary>Last Year</summary>
-<details><summary>📺Courses</summary>
 
-- Domain-Driven Design Fundamentals  
-- Clean Architecture: Patterns, Practices, and Principles
-- Building Microservices
-- Introduction to .NET Testing with NUnit 3
-- Microservices Architecture Fundamentals
-- Microservices: Getting Started
-- .NET Microservices: CQRS & Event Sourcing with Kafka
-</details>
-<details><summary>Technical Writting</summary>
-
-</details>
-<details><summary>OSS</summary>
-</details>
-</details>
 
 
